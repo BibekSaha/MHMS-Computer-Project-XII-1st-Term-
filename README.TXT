@@ -1,7 +1,7 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+This Computer Project is for Mansur Habibullah Memorial School
+Class:- XII
+Year:- 2018-2019
 ------------------------------------------------------------------------
 
 PROJECT TITLE: MHMS Computer Project XII First Term 2018
